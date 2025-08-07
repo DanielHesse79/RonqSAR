@@ -1,0 +1,16 @@
+[app]
+title = "NarrowSearchAI"
+theme = "auto"
+results_per_page = 25
+
+[search]
+use_semantic = true
+embedder = "all-MiniLM-L6-v2"
+top_k = 50
+w_sim = 0.6
+w_attr = 0.3
+w_recency = 0.1
+
+[data]
+path = "data/sample.csv"
+text_fields = ["title", "text"]
