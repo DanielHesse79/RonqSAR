@@ -1,0 +1,2 @@
+model: lightgbm
+n_trials: 10
