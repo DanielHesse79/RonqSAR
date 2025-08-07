@@ -1,0 +1,10 @@
+streamlit
+pandas
+pyarrow
+plotly
+pydantic
+sentence-transformers
+faiss-cpu
+scikit-learn
+loguru
+rich
