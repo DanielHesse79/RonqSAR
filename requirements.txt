@@ -1,0 +1,15 @@
+rdkit-pypi
+pandas
+numpy
+scikit-learn
+lightgbm
+xgboost
+optuna
+mordred
+shap
+fastapi
+uvicorn
+joblib
+pydantic
+pyyaml
+requests

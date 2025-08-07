@@ -1,0 +1,8 @@
+__pycache__/
+artifacts/
+*.pyc
+*.pkl
+*.joblib
+run_*/
+*.log
+.env

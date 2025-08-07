@@ -1,0 +1,11 @@
+data: data/esol.csv
+target: y
+model: lightgbm
+features:
+  ecfp4: 2048
+split: scaffold
+test_size: 0.2
+seed: 0
+n_trials: 1
+output: artifacts
+alpha: 0.1
